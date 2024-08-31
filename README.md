@@ -1,4 +1,4 @@
-# Alarm Clock
+# Task Scheduler
 
 This is a terminal-based task scheduler that will perform tasks what you specify and also notify you when the specified time has elapsed or is reached.
 
