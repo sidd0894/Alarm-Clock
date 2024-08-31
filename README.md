@@ -1,6 +1,6 @@
 # Alarm Clock
 
-This is a terminal-based alarm clock that will notify you when the chosen time has elapsed or is reached.
+This is a terminal-based task scheduler that will perform tasks what you specify and also notify you when the specified time has elapsed or is reached.
 
 **Note** : The Python library used for displaying notifications is `win10toast`, which is not cross-platform. Therefore, notifications will only work on Windows OS.
 
